@@ -1,0 +1,17 @@
+# Core web framework
+flask>=2.3.0
+
+# Testing frameworks
+selenium>=4.15.0
+playwright>=1.40.0
+
+# HTTP and system utilities
+requests>=2.31.0
+psutil>=5.9.0
+
+# Data processing
+sqlite3
+
+# Optional: Enhanced features
+# dogtail>=1.0.0  # For accessibility testing (Linux only)
+# lnav>=0.11.0    # For advanced log analysis (system package)
